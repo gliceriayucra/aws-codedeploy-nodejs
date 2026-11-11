@@ -1,0 +1,4 @@
+{
+  "name": "app-prueba",
+  "scripts": { "start": "node server.js" }
+}
